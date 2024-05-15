@@ -18,4 +18,4 @@ Understanding the implications of shall-issue laws on crime rates holds signific
 
 For a detailed analysis and comprehensive insights, please refer to the full report. You can view the report by clicking the link below:
 
-[View Full Report](./Guns Law.pdf)
+[View Full Report](./Guns%20Law.pdf)
