@@ -13,3 +13,9 @@ The central question guiding this study is: "Do shall-issue laws reduce crime ra
 
 ### Significance of the Study
 Understanding the implications of shall-issue laws on crime rates holds significant relevance for policymakers, law enforcement agencies, and the general public. The findings of this study aim to contribute valuable insights to the ongoing national conversation on gun control, informing evidence-based decision-making and fostering a deeper understanding of the societal impacts of firearm policies.
+
+## More Information
+
+For a detailed analysis and comprehensive insights, please refer to the full report. You can view the report by clicking the link below:
+
+[View Full Report](./Guns Law.pdf)
